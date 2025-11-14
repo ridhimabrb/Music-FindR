@@ -1,4 +1,5 @@
-I built this with React and Vite, allowing users to search for any artist through the Spotify Web API. 😋😋
+### Live Demo https://ridhimabrb.github.io/Music-FindR/
+I built this with React and Vite, allowing users to search for any artist through the Spotify Web API 😋😋
 I had made another version of this earlier but its database was too small so in this project I integrated the Spotify API, using Spotify for Developers, so that every artist/album could be considered. The app fetches and displays artist data using Spotify’s Client Credentials flow. It demonstrates environment variable handling, API authentication, and component-based UI built with React Bootstrap.
 
 <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/c4d2792a-cccf-463e-aa92-bf12d8fda01b" />
